@@ -1,6 +1,6 @@
 # NodeJS E-shop with PayPal
 
-A NodeJS eshop that processes purchases using PayPal.
+A NodeJS eshop built with Turbo 360 that processes purchases using PayPal.
 
 ## Instructions
 After cloning into repo, cd to project root directory and install dependencies:
