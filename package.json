@@ -1,0 +1,26 @@
+{
+  "name": "tshirt-store",
+  "version": "0.0.0",
+  "server": false,
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "serve": "turbo devserver",
+    "test": "",
+    "build": "",
+    "postinstall": "turbo postinstall"
+  },
+  "dependencies": {
+    "@paypal/checkout-server-sdk": "^1.0.3",
+    "@types/aws-lambda": "^8.10.85",
+    "express": "^4.17.1",
+    "node-lambda": "^0.20.0",
+    "turbo360": "^1.8.69",
+    "vertex360": "^0.30.33"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "rimraf": "^2.6.2"
+  },
+  "format": "vertex"
+}

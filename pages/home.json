@@ -1,0 +1,28 @@
+{
+	"hero":
+	{
+		"slides":[
+			{
+				"img_background":"/img/bg-images/1.jpg",
+				 "header" : "Custom Design Artwork",
+				 "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum sus-pendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. "
+			},
+			{
+				"img_background":"/img/bg-images/2.jpg",
+				 "header" : "New Arrivals",
+				 "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum sus-pendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. "
+			},
+			{
+				"img_background":"/img/bg-images/3.jpg",
+				 "header" : "New Arrivals",
+				 "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum sus-pendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. "
+			},
+			{
+				"img_background":"/img/bg-images/4.jpg",
+				 "header" : "New Arrivals",
+				 "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum sus-pendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. "
+			}
+
+		]
+	}
+}
